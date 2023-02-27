@@ -11,3 +11,5 @@ The managers of the make-up Techionista Holidays website would love to gain more
 
 During this business case, we made use of a sentiment analysis function from Azure Cognitive Services. 
 We connected to the data source and cleaned the data. Set up the Azure Cognitive Services in Azure and run the function in Power BI. Then we build our report and presented it in a short presentation of five minutes.
+
+The report consists of 4 pages; Summary, Hotels, Feedback, and Q&A.
